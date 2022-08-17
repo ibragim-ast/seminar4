@@ -1,0 +1,15 @@
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/bin/Debug/net6.0/Homework 029
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/bin/Debug/net6.0/Homework 029.deps.json
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/bin/Debug/net6.0/Homework 029.runtimeconfig.json
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/bin/Debug/net6.0/Homework 029.dll
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/bin/Debug/net6.0/Homework 029.pdb
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/obj/Debug/net6.0/Homework 029.csproj.AssemblyReference.cache
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/obj/Debug/net6.0/Homework 029.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/obj/Debug/net6.0/Homework 029.AssemblyInfoInputs.cache
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/obj/Debug/net6.0/Homework 029.AssemblyInfo.cs
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/obj/Debug/net6.0/Homework 029.csproj.CoreCompileInputs.cache
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/obj/Debug/net6.0/Homework 029.dll
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/obj/Debug/net6.0/refint/Homework 029.dll
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/obj/Debug/net6.0/Homework 029.pdb
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/obj/Debug/net6.0/Homework 029.genruntimeconfig.cache
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Seminar/Seminar4/Homework 029/obj/Debug/net6.0/ref/Homework 029.dll
